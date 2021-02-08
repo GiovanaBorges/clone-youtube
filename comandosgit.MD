@@ -1,13 +1,13 @@
-add arquivos 
+//add arquivos 
 git . add 
 
-criar ramificação e ir pra ela 
+//criar ramificação e ir pra ela 
 git checkout -b add_barside
 
-ver as ramificações existentes
+//ver as ramificações existentes
 git branch
 
-ver em qual ramificação está
+> ver em qual ramificação está
 git status
 
 move to other branch 
