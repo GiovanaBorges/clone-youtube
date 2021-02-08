@@ -15,11 +15,11 @@
 > move to other branch 
 `git checkout main `
 
-num lembro
+> num lembro
 `git merge add_barside `
 
-`` num lemrbo também
-git remote ``
+> num lembro também
+` git remote `
 
 > enviar arquivos para a branch main 
 `git push -u origin main `
