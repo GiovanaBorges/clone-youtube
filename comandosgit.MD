@@ -24,5 +24,5 @@ git remote ``
 > enviar arquivos para a branch main 
 `git push -u origin main `
 
-fazer os coisa que eu esqueci oq era tbm 
-git remote add origin https://github.com/GiovanaBorges/clone-youtube.git/git.g 
+> fazer os coisa que eu esqueci oq era tbm 
+` git remote add origin https://github.com/GiovanaBorges/clone-youtube.git/git.g `
