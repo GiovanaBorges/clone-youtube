@@ -1,18 +1,18 @@
 ## comandos git porque tenho alzheimer
 
-> add arquivos >
+> add arquivos 
  `git . add `
 
-> criar ramificação e ir pra ela >
+> criar ramificação e ir pra ela 
 ` git checkout -b add_barside `
 
-> ver as ramificações existentes >
+> ver as ramificações existentes 
 ` git branch `
 
-> ver em qual ramificação está >
+> ver em qual ramificação está 
 ` git status`
 
-> move to other branch >
+> move to other branch 
 `git checkout main `
 
 num lembro
@@ -21,7 +21,7 @@ num lembro
 `` num lemrbo também
 git remote ``
 
-> enviar arquivos para a branch main >
+> enviar arquivos para a branch main 
 `git push -u origin main `
 
 fazer os coisa que eu esqueci oq era tbm 
