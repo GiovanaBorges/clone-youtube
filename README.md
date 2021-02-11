@@ -6,11 +6,14 @@ This project was made with reactJS and materialUI , contains the modelight and m
 
 > ModeDark : 
 
-https://github.com/GiovanaBorges/clone-youtube/blob/main/modedark.jpg
+[img1](modedark.jpg)
 
 
->ModeLight >
+>ModeLight:
 
-https://github.com/GiovanaBorges/clone-youtube/blob/main/modelight.jpg
+[img2](modelight.jpg)
+
+
+[img2](monkey2.jpg)
 
 
