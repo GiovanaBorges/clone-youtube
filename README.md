@@ -6,14 +6,13 @@ This project was made with reactJS and materialUI , contains the modelight and m
 
 > ModeDark : 
 
-[img1](modedark.jpg)
+![img1](modedark.jpg)
 
 
 >ModeLight:
 
-[img2](modelight.jpg)
+![img2](modelight.jpg)
 
 
-[img2](monkey2.jpg)
 
 
