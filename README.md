@@ -1,8 +1,8 @@
-#💡 Resultado do protótipo de clonagem do youtube
+# 💡 Resultado do protótipo de clonagem do youtube.
 
-This project was made with reactJS and materialUI , contains the modelight and modedark . 
+> This project was made with reactJS and materialUI , contains the modelight and modedark . 
 
-#Layout :
+# Layout :
 
 > ModeDark : 
 
